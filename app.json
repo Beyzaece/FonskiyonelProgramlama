@@ -23,12 +23,9 @@
         "backgroundColor": "#ffffff"
       }
     },
-    "scheme": "food-yt", 
+    "scheme": "food-yt",
     "web": {
       "favicon": "./assets/favicon.png"
-    },
-    "plugins": [
-      "expo-router"
-    ]
+    }
   }
 }
